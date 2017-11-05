@@ -1,5 +1,8 @@
 <?php
 
+//TODO: Actually download the HTML from the live US site.
+//TODO: Clean up code
+
 require __DIR__ . '/vendor/autoload.php';
 use Sunra\PhpSimple\HtmlDomParser;
 
