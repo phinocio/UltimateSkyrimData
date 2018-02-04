@@ -1,0 +1,642 @@
+[
+{
+name: "FISS - FileAccess Interface for Skyrim Scripts 1.21",
+url: "http://www.nexusmods.com/skyrim/mods/48265",
+author: "Lord Conti"
+},
+{
+name: "Ultimate Skyrim Legendary Edition Patch 3.0.9",
+url: "http://www.nexusmods.com/skyrim/mods/71214",
+author: "Arthmoor & UPP Team"
+},
+{
+name: "Audio Overhaul for Skyrim 2.5.1",
+url: "http://www.nexusmods.com/skyrim/mods/43773",
+author: "LoRd KoRn"
+},
+{
+name: "Winter is Coming Cloaks 2.4",
+url: "http://www.nexusmods.com/skyrim/mods/13486",
+author: "Nivea"
+},
+{
+name: "Cloaks of Skyrim 1.2",
+url: "http://www.nexusmods.com/skyrim/mods/12092",
+author: "Noodles (Nikinoodles)"
+},
+{
+name: "Improved Closefaced Helmets 1.57",
+url: "http://www.nexusmods.com/skyrim/mods/15927",
+author: "navida1"
+},
+{
+name: "Bandolier - Bags and Pouches 1.2",
+url: "http://www.nexusmods.com/skyrim/mods/16438",
+author: "Dragten"
+},
+{
+name: "Bandolier - Dawnguard 1.0",
+url: "http://www.nexusmods.com/skyrim/mods/22119",
+author: "Dragten"
+},
+{
+name: "Helgen Reborn 105.3",
+url: "http://www.nexusmods.com/skyrim/mods/35841",
+author: "Mike Hancho"
+},
+{
+name: "Grimy Plugin 1.14",
+url: "http://www.nexusmods.com/skyrim/mods/69341",
+author: "Grimy Bunyip"
+},
+{
+name: "JContainers 3.3.0.RC.3",
+url: "http://www.nexusmods.com/skyrim/mods/49743",
+author: "silvericed"
+},
+{
+name: "Memory Blocks Log 1.2",
+url: "http://www.nexusmods.com/skyrim/mods/50471",
+author: "Sheson"
+},
+{
+name: "PapyrusUtil 3.3",
+url: "http://www.nexusmods.com/skyrim/mods/58705",
+author: "exiledviper & meh321"
+},
+{
+name: "Enchantment Reload Fix 1.2",
+url: "http://www.nexusmods.com/skyrim/mods/52717",
+author: "egocarib"
+},
+{
+name: "Campfire - Complete Camping System 1.11",
+url: "http://www.nexusmods.com/skyrim/mods/64798",
+author: "Chesko"
+},
+{
+name: "Enhanced Blood Textures 3.6c",
+url: "http://www.nexusmods.com/skyrim/mods/60",
+author: "dDefinder"
+},
+{
+name: "Wet and Cold 2.02",
+url: "http://www.nexusmods.com/skyrim/mods/27563",
+author: "isoku"
+},
+{
+name: "Get Snowy 5.5",
+url: "http://www.nexusmods.com/skyrim/mods/19660",
+author: "Hoax2"
+},
+{
+name: "Heavy Armory 3.3",
+url: "http://www.nexusmods.com/skyrim/mods/21120",
+author: "PrivateEye"
+},
+{
+name: "Fore's New Idles in Skyrim (FNIS) 6.3",
+url: "http://www.nexusmods.com/skyrim/mods/11811",
+author: "fore"
+},
+{
+name: "Immersive Patrols 2.0.3",
+url: "http://www.nexusmods.com/skyrim/mods/12977",
+author: "Scrabbulor"
+},
+{
+name: "More Interesting Loot 5.7",
+url: "http://www.nexusmods.com/skyrim/mods/48869",
+author: "Ghengisbob"
+},
+{
+name: "Perseid's Inns and Taverns 1.8.3",
+url: "http://www.nexusmods.com/skyrim/mods/25029",
+author: "perseid9"
+},
+{
+name: "Real Shelter 1.4.0.7",
+url: "http://www.nexusmods.com/skyrim/mods/52612",
+author: "ThreeTen (Robinsage)"
+},
+{
+name: "Realistic Ragdolls and Force 1.9",
+url: "http://www.nexusmods.com/skyrim/mods/601",
+author: "dDefinder"
+},
+{
+name: "XP32 Maximum Skeleton 1.96",
+url: "http://www.nexusmods.com/skyrim/mods/26800",
+author: "xp32"
+},
+{
+name: "SkyUI 5.1",
+url: "http://www.nexusmods.com/skyrim/mods/3863",
+author: "SkyUI Team (schlangster)"
+},
+{
+name: "Fishing in Skyrim 1.0",
+url: "http://www.nexusmods.com/skyrim/mods/16139",
+author: "Arodicus Snaux"
+},
+{
+name: "Enhanced Lights and FX 3.01",
+url: "http://www.nexusmods.com/skyrim/mods/27043",
+author: "anamorfus"
+},
+{
+name: "Static Mesh Improvement Mod 2.04",
+url: "http://www.nexusmods.com/skyrim/mods/8655",
+author: "Brumbek"
+},
+{
+name: "No Snow Under the Roof 2.3",
+url: "http://www.nexusmods.com/skyrim/mods/51188",
+author: "Prometheus"
+},
+{
+name: "Better Docks 1.7",
+url: "http://www.nexusmods.com/skyrim/mods/14087",
+author: "zebra0"
+},
+{
+name: "Auto Unequip Ammo 5.0",
+url: "http://www.nexusmods.com/skyrim/mods/10753",
+author: "Alek (mitchalek)"
+},
+{
+name: "Immersive Weapons 1.5",
+url: "http://www.nexusmods.com/skyrim/mods/27644",
+author: "Hothtrooper44, Ironman5000, & Eckss"
+},
+{
+name: "TK Children 2.0",
+url: "http://www.nexusmods.com/skyrim/mods/49756",
+author: "tktk"
+},
+{
+name: "Brigandage 4.0",
+url: "http://www.nexusmods.com/skyrim/mods/32706",
+author: "Franklin Zunge"
+},
+{
+name: "Immersive Armors 8.0",
+url: "http://www.nexusmods.com/skyrim/mods/19733",
+author: "Hothtrooper44"
+},
+{
+name: "Telescopes 0.93",
+url: "http://www.nexusmods.com/skyrim/mods/30473",
+author: "KettleWitch"
+},
+{
+name: "Dwemer Goggles and Scouter 2.1.1",
+url: "http://www.nexusmods.com/skyrim/mods/13133",
+author: "volvaga0"
+},
+{
+name: "Dwemer Goggles and Scouter - Script Hotfix 2.1.1",
+url: "http://www.nexusmods.com/skyrim/mods/13133",
+author: "volvaga0"
+},
+{
+name: "Unlimited Bookshelves 2.2",
+url: "http://www.nexusmods.com/skyrim/mods/10891",
+author: "da5id2701 & Nazenn"
+},
+{
+name: "Realistic AI Detection 1.0",
+url: "http://www.nexusmods.com/skyrim/mods/74355",
+author: "Olivier Doorenbos"
+},
+{
+name: "iNeed - Food, Water, and Sleep 1.602",
+url: "http://www.nexusmods.com/skyrim/mods/51473",
+author: "isoku"
+},
+{
+name: "Death Alternative 7.0.1",
+url: "http://www.nexusmods.com/skyrim/mods/45894",
+author: "BralorMarr"
+},
+{
+name: "Death Alternative - Captured 7.0.0",
+url: "http://www.nexusmods.com/skyrim/mods/54867",
+author: "BralorMarr"
+},
+{
+name: "OneTweak 2.1.0.2",
+url: "http://www.nexusmods.com/skyrim/mods/40706",
+author: "virusek"
+},
+{
+name: "Improved Fish 3.5",
+url: "http://www.nexusmods.com/skyrim/mods/14320",
+author: "Blitz54"
+},
+{
+name: "Holidays 2.0",
+url: "http://www.nexusmods.com/skyrim/mods/64820",
+author: "isoku"
+},
+{
+name: "Bounty Gold 1.1",
+url: "http://www.nexusmods.com/skyrim/mods/36534",
+author: "gorey666"
+},
+{
+name: "Indistinguishable Vanilla Tree Billboards 1.4",
+url: "http://www.nexusmods.com/skyrim/mods/75269",
+author: "Palerider"
+},
+{
+name: "Honed Metal 1.09",
+url: "http://www.nexusmods.com/skyrim/mods/51024",
+author: "SkylineR390"
+},
+{
+name: "Honed Metal 1.09 Hotfix",
+url: "http://www.nexusmods.com/skyrim/mods/51024",
+author: "SkylineR390"
+},
+{
+name: "Notice Board 2.2",
+url: "http://www.nexusmods.com/skyrim/mods/70142",
+author: "MannyGT"
+},
+{
+name: "Notice Board - Updated 2.243",
+url: "http://www.nexusmods.com/skyrim/mods/79296",
+author: "Memnochs (Sthaagg)"
+},
+{
+name: "Notice Board - Falskaar 2.5a",
+url: "http://www.nexusmods.com/skyrim/mods/70273",
+author: "AndrealphusVIII"
+},
+{
+name: "Glorious Fort Dawnguard 0.1",
+url: "http://www.nexusmods.com/skyrim/mods/52340",
+author: "Dahveed"
+},
+{
+name: "Hearthfire Extended 1.0.3",
+url: "http://www.nexusmods.com/skyrim/mods/66783",
+author: "Kinaga"
+},
+{
+name: "Trade Routes 2.0",
+url: "http://www.nexusmods.com/skyrim/mods/49369",
+author: "taleden"
+},
+{
+name: "Frostfall 3.4.1",
+url: "http://www.nexusmods.com/skyrim/mods/11163",
+author: "Chesko"
+},
+{
+name: "Wearable Lanterns 4.0.2",
+url: "http://www.nexusmods.com/skyrim/mods/17416",
+author: "Chesko"
+},
+{
+name: "Trade and Barter 1.2",
+url: "http://www.nexusmods.com/skyrim/mods/34612",
+author: "kryptopyr"
+},
+{
+name: "Falskaar 1.2.1final",
+url: "http://www.nexusmods.com/skyrim/mods/37994",
+author: "AlexanderJVelicky"
+},
+{
+name: "Immersive College of Winterhold 4.1",
+url: "http://www.nexusmods.com/skyrim/mods/36849",
+author: "Grantyboy050"
+},
+{
+name: "RaceCompatibility for Skyrim and Dawnguard 1.106",
+url: "http://www.nexusmods.com/skyrim/mods/24168",
+author: "TMPhoenix"
+},
+{
+name: "Dragon Stalking Fix 1.2",
+url: "http://www.nexusmods.com/skyrim/mods/54274",
+author: "sevencardz"
+},
+{
+name: "Cutting Room Floor 2.0.5",
+url: "http://www.nexusmods.com/skyrim/mods/47327",
+author: "Arthmoor"
+},
+{
+name: "Nightingale Hall Restored 3.0",
+url: "http://www.nexusmods.com/skyrim/mods/13632",
+author: "kryptopyr"
+},
+{
+name: "Undeath 1.3",
+url: "http://www.nexusmods.com/skyrim/mods/40607",
+author: "Antioch08"
+},
+{
+name: "Fuz Ro D-oh 6.0",
+url: "http://www.nexusmods.com/skyrim/mods/14884",
+author: "shadeMe"
+},
+{
+name: "Immersive Sounds - Compendium 2.0.2",
+url: "http://www.nexusmods.com/skyrim/mods/54387",
+author: "lazygecko (lazyskeever)"
+},
+{
+name: "Skyrim Project Optimization (No Homes) 1.6",
+url: "http://www.nexusmods.com/skyrim/mods/32505",
+author: "rgabriel15"
+},
+{
+name: "Scoped Bows 3.1.1",
+url: "http://www.nexusmods.com/skyrim/mods/50528",
+author: "OutLaw666"
+},
+{
+name: "Wiseman303's Flora Fixes 2.01",
+url: "http://www.nexusmods.com/skyrim/mods/70656",
+author: "Wiseman303"
+},
+{
+name: "Wiseman303's Flora Fixes - SMIM Patch 2.0",
+url: "http://www.nexusmods.com/skyrim/mods/70656",
+author: "Wiseman303"
+},
+{
+name: "Immersive Horses 2.5",
+url: "http://www.nexusmods.com/skyrim/mods/64067",
+author: "sevencardz"
+},
+{
+name: "Faction Crossbows 1.03",
+url: "http://www.nexusmods.com/skyrim/mods/58704",
+author: "Deserter X"
+},
+{
+name: "aMidianBorn Content Addon 1.9",
+url: "http://www.nexusmods.com/skyrim/mods/24909",
+author: "CaBaL"
+},
+{
+name: "Complete Crafting Overhaul Remade 1.7",
+url: "http://www.nexusmods.com/skyrim/mods/49791",
+author: "kryptopyr"
+},
+{
+name: "Enhanced Skyrim Factions: The Companions 0.3.8",
+url: "http://www.nexusmods.com/skyrim/mods/22650",
+author: "DreamKing"
+},
+{
+name: "Thieves Guild Requirements 3.0",
+url: "http://www.nexusmods.com/skyrim/mods/14157",
+author: "kryptopyr"
+},
+{
+name: "Requiem 1.9.4",
+url: "http://www.nexusmods.com/skyrim/mods/19281",
+author: "The Requiem Dungeon Masters"
+},
+{
+name: "Requiem - Hotfix 1.9.4.1",
+url: "http://www.nexusmods.com/skyrim/mods/19281",
+author: "The Requiem Dungeon Masters"
+},
+{
+name: "Requiem - Minor Arcana 2.63",
+url: "http://www.nexusmods.com/skyrim/mods/72865",
+author: "Axonis"
+},
+{
+name: "Requiem - Dragonborn Patch 1.0",
+url: "http://www.nexusmods.com/skyrim/mods/78139",
+author: "Fozar"
+},
+{
+name: "Requiem - Falskaar Patch 1.0.2",
+url: "http://www.nexusmods.com/skyrim/mods/60508",
+author: "Nerimir"
+},
+{
+name: "Undeath: Immersive Lichdom 3.5",
+url: "http://www.nexusmods.com/skyrim/mods/60783",
+author: "Tx12001"
+},
+{
+name: "The Paarthurnax Dilemma 1.2.9",
+url: "http://www.nexusmods.com/skyrim/mods/18465",
+author: "Arthmoor"
+},
+{
+name: "The Choice is Yours - Fewer Forced Quests 2.0",
+url: "http://www.nexusmods.com/skyrim/mods/26359",
+author: "kryptopyr"
+},
+{
+name: "Telescope - Requiem Compatibility Patch 1.0.0",
+url: "http://www.nexusmods.com/skyrim/mods/81255",
+author: "Inari Whitebear (Pinkishu)"
+},
+{
+name: "Alternate Start - Live Another Life 3.1.6",
+url: "http://www.nexusmods.com/skyrim/mods/9557",
+author: "Arthmoor"
+},
+{
+name: "Death Alternative - Alternate Start Addon 1.0.1",
+url: "http://www.nexusmods.com/skyrim/mods/61788",
+author: "BralorMarr"
+},
+{
+name: "New Beginnings - Alternate Start Addon 1.2.4",
+url: "http://www.nexusmods.com/skyrim/mods/70959",
+author: "flo27"
+},
+{
+name: "Vampiric Thirst 2.61",
+url: "http://www.nexusmods.com/skyrim/mods/24222",
+author: "Miss Leeches"
+},
+{
+name: "Vampiric Thirst - Requiem Patch 1.0",
+url: "http://www.nexusmods.com/skyrim/mods/24222",
+author: "Miss Leeches"
+},
+{
+name: "Vampiric Thirst Redone - Requiem Version 1.00",
+url: "http://www.nexusmods.com/skyrim/mods/78337",
+author: "Tx12001"
+},
+{
+name: "Immersive Children 3.1",
+url: "http://www.nexusmods.com/skyrim/mods/83554",
+author: "GarlantheGreat"
+},
+{
+name: "Requiem - Behind the Curtain 1.9",
+url: "http://www.nexusmods.com/skyrim/mods/74330",
+author: "Zer0Morph"
+},
+{
+name: "Even Better Quest Objectives 1.5.8a",
+url: "http://www.nexusmods.com/skyrim/mods/32695",
+author: "whickus & William Imm"
+},
+{
+name: "Weapons and Armor Fixes Remade 5.2",
+url: "http://www.nexusmods.com/skyrim/mods/34093",
+author: "kryptopyr"
+},
+{
+name: "Clothing and Clutter Fixes 1.7",
+url: "http://www.nexusmods.com/skyrim/mods/43053",
+author: "kryptopyr"
+},
+{
+name: "Gemling Queen Jewelry 4.1c",
+url: "http://www.nexusmods.com/skyrim/mods/52266",
+author: "Saerileth"
+},
+{
+name: "aMidianBorn Content Addon Reqtified 1.0b2",
+url: "http://www.nexusmods.com/skyrim/mods/72562",
+author: "UnmeiX"
+},
+{
+name: "Kryptopyr's Fixes Reqtified 2.0.1b3",
+url: "http://www.nexusmods.com/skyrim/mods/61520",
+author: "UnmeiX"
+},
+{
+name: "Complete Crafting Overhaul Reqtified 2.0.1b3",
+url: "http://www.nexusmods.com/skyrim/mods/61569",
+author: "UnmeiX"
+},
+{
+name: "Requiem - Undeath Patch 1.0",
+url: "http://www.nexusmods.com/skyrim/mods/60508",
+author: "Nerimir"
+},
+{
+name: "aMidianBorn Weapons Retexture 1.9",
+url: "http://www.nexusmods.com/skyrim/mods/24909",
+author: "CaBaL, EmeraldReign & AMB Team"
+},
+{
+name: "Craftable Horse Barding 3.4",
+url: "http://www.nexusmods.com/skyrim/mods/64069",
+author: "sevencardz"
+},
+{
+name: "SkyTEST - Realistic Animals and Predators 1.56.03",
+url: "http://www.nexusmods.com/skyrim/mods/10175",
+author: "EtaYorius"
+},
+{
+name: "Relationship Dialogue Overhaul 2.0",
+url: "http://www.nexusmods.com/skyrim/mods/74568",
+author: "cloudedtruth"
+},
+{
+name: "Horses Revamped 1.0",
+url: "http://www.nexusmods.com/skyrim/mods/70640",
+author: "DServant"
+},
+{
+name: "Bug Fixes 1.0",
+url: "http://www.nexusmods.com/skyrim/mods/76747",
+author: "meh321"
+},
+{
+name: "Crash Fixes 12",
+url: "http://www.nexusmods.com/skyrim/mods/72725",
+author: "meh321"
+},
+{
+name: "Moonlight Tales - Werewolf and Werebear Overhaul 2.33",
+url: "http://www.nexusmods.com/skyrim/mods/35470",
+author: "Brevi & Al99 (spwned)"
+},
+{
+name: "Smithing Perks Reqtified 1.1.1",
+url: "http://www.nexusmods.com/skyrim/mods/69587",
+author: "UnmeiX"
+},
+{
+name: "Spectacular Night Eye 5.0",
+url: "http://www.nexusmods.com/skyrim/mods/35281",
+author: "OfftheRails"
+},
+{
+name: "Safety Load 1.2",
+url: "http://www.nexusmods.com/skyrim/mods/46465",
+author: "kapaer"
+},
+{
+name: "College of Winterhold Entry Requirements 2.4",
+url: "http://www.nexusmods.com/skyrim/mods/38448",
+author: "TorchicBlaziken"
+},
+{
+name: "Better College Application 2.0.1",
+url: "http://www.nexusmods.com/skyrim/mods/60061",
+author: "Gandaganza"
+},
+{
+name: "House of Horrors Alternate Ending 1.00",
+url: "http://www.nexusmods.com/skyrim/mods/21700",
+author: "Kevin Kidder (sushisquid)"
+},
+{
+name: "Carriage and Ferry Travel Overhaul 2.0",
+url: "http://www.nexusmods.com/skyrim/mods/68221",
+author: "Kinaga"
+},
+{
+name: "Mortal Enemies - De-aimbot Your Foes 1.4",
+url: "http://www.nexusmods.com/skyrim/mods/73921",
+author: "center05"
+},
+{
+name: "Heljarchen Farm 1.46",
+url: "http://www.nexusmods.com/skyrim/mods/50992",
+author: "Skvindt"
+},
+{
+name: "Realistic Humanoid Movement Speed 1.03",
+url: "http://www.nexusmods.com/skyrim/mods/32229",
+author: "brump"
+},
+{
+name: "Immersive Merchandising 3.0",
+url: "http://www.nexusmods.com/skyrim/mods/77680",
+author: "Alexandriel"
+},
+{
+name: "Spell Research 1.2",
+url: "http://www.nexusmods.com/skyrim/mods/81214",
+author: "IronDusk33"
+},
+{
+name: "Modern Brawl Bug Fix 1.04",
+url: "http://www.nexusmods.com/skyrim/mods/77465",
+author: "EnaiSiaion"
+},
+{
+name: "Ultimate Skyrim 3.4",
+url: "http:6s//www.nexusmods.com/skyrim/mods/82846",
+author: "Belmont Boy"
+},
+{
+name: "Ultimate Skyrim - Compatibility Patches 3.4",
+url: "http://www.nexusmods.com/skyrim/mods/82846",
+author: "Belmont Boy & elgatoenlaluna"
+}
+]
